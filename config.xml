@@ -20,7 +20,7 @@
         <allow-intent href="market:*" />
     </platform>
     <platform name="ios">
-        <allow-intent href="itms:*" />晶
+        <allow-intent href="itms:*" />晶中 中中lekr肋； 加； 
         <allow-intent href="itms-apps:*" />
     </platform>
 </widget>
